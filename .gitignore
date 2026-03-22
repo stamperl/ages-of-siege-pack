@@ -1,4 +1,6 @@
 *.zip
+*.mrpack
 *.log
 *.tmp
 .DS_Store
+tools/prism/
