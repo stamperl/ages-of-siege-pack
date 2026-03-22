@@ -14,6 +14,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/armorful.pw.toml"
+hash = "2037f6d2411576181d4679ce75a233de4993c99b04fcebc16814697d8f0fc178"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
 
 [[files]]
