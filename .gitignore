@@ -4,3 +4,4 @@
 *.tmp
 .DS_Store
 tools/prism/
+!modpack/Ages Of Siege-0.1.0.mrpack

@@ -35,13 +35,17 @@ This folder contains the `packwiz` modpack source for the first playable `Ages O
 
 ## Important Note
 
-The custom `Ages Of Siege` control mod is not wired into this pack yet. This modpack currently represents the base stack we will build around.
+The custom `Ages Of Siege` control mod is now included as a local built jar in `mods/`.
+This gives the pack its first custom gameplay rule:
+
+- normal Minecraft opening
+- player-chosen defended base
+- persistent base claim data for later siege systems
 
 ## Recommended Next Steps
 
 1. Launch this shortlist in a clean test instance.
 2. Confirm boot, world creation, save/reload, and basic mod visibility.
-3. Decide how to include the custom mod during development:
-   - local built jar copied into the pack
-   - linked dev workflow
-4. Add the first custom progression slice only after the base pack is stable.
+3. Rebuild the control mod when gameplay changes land.
+4. Re-export the `.mrpack` after updating the local control-mod jar.
+5. Add the next progression slice on top of the base-claim foundation.

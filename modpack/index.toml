@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "351fbae27713fcda14feb03f9360f615b0d09671fec30e56c9cf388f3b061da0"
+hash = "d0c4ecfa50be5361bc53006929a525f08cd23a489571a79c8650c96754f4b761"
+
+[[files]]
+file = "mods/ages-of-siege-control-0.1.0.jar"
+hash = "2091ec907943702e5d88c00b175c4ab772750eb26bee1c101548fbe5dcec88d3"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
