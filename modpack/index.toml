@@ -9,6 +9,11 @@ file = "mods/ages-of-siege-control-0.1.0.jar"
 hash = "2091ec907943702e5d88c00b175c4ab772750eb26bee1c101548fbe5dcec88d3"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "14928fc886939401440a2e39b2cfb64cf8defbe1ea495548f163b8216220aec0"
 metafile = true
 
 [[files]]
