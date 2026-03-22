@@ -1,0 +1,13 @@
+name = "Hostile Climbers"
+filename = "hostileclimbers-1.1.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P8k4XZdM/versions/azuHTGfg/hostileclimbers-1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "5ec7d06a92a1885f92fd6af6149695a7babc97fabbd09fa994b487cff2a118c00f99abf23367fa8a2d0f64ecc7aa8ab434f187ed466e14afa671ed1292075296"
+
+[update]
+[update.modrinth]
+mod-id = "P8k4XZdM"
+version = "azuHTGfg"

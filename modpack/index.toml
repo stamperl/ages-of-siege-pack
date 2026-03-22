@@ -54,6 +54,11 @@ hash = "f8acce600884d49a55b314bc16f29f5d8b85c9656b558f2fe8e8ce1687f4fb81"
 metafile = true
 
 [[files]]
+file = "mods/hostile-climbers.pw.toml"
+hash = "5961580611b1e0ab986fd362e2307affa053fd220979d2f97f057399921f398e"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "e617f3c168a6773f8cbc3b0fa183dda1a954df5c856bbf90591763a03544c5a9"
 metafile = true
