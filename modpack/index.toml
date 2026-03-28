@@ -181,3 +181,21 @@ metafile = true
 [[files]]
 file = "open-prism-import.bat"
 hash = "9b14650cd957cf8c3c68e143695a54e25c2e174a85a3ee16e4ed180198a74e35"
+
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "ceac338f8c4009e7469dbf3d234e9618afb126432c0e349097772f9a990a677c"
+metafile = true
+
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "5d37e3055b62f507cd243aeb3a5b47e93bcb26bc936f69bf0df48aa142324f88"
+metafile = true
+
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "bc9c765f425f0bcb41f001675a5c15476fa4bc7d245d442b49c9203d637f3062"
+metafile = true
