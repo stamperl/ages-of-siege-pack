@@ -3,5 +3,13 @@
 *.log
 *.tmp
 .DS_Store
+cfr.jar
+guardvillagers-temp.jar
+control-src/
+decompiled-control/
+decompiled-control2/
+decompiled-guard/
+decompiled-guard2/
+tools/cfr.jar
 tools/prism/
 !modpack/Ages Of Siege-0.1.0.mrpack
