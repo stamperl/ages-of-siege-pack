@@ -1,51 +1,34 @@
 # Ages Of Siege Modpack
 
-This folder contains the `packwiz` modpack source for the first playable `Ages Of Siege` pack target.
+This folder contains the live `packwiz` source for the `Ages Of Siege` pack.
 
-## Current Target
+## Target Versions
 
 - Minecraft `1.20.1`
-- Fabric `0.18.4`
-- Phase 1 locked shortlist installed
+- Fabric Loader `0.18.4`
+- Java `17`
 
-## Included Categories
+## What Is In Here
 
-- foundation
-- QoL
-- performance
-- gameplay backbone
+- [pack.toml](C:\Users\Stamp\OneDrive\Documents\Ages%20Of%20Siege%20Pack\modpack\pack.toml)
+- [index.toml](C:\Users\Stamp\OneDrive\Documents\Ages%20Of%20Siege%20Pack\modpack\index.toml)
+- `mods/*.pw.toml` for managed CurseForge/Modrinth entries
+- the local built [ages-of-siege-control-0.1.0.jar](C:\Users\Stamp\OneDrive\Documents\Ages%20Of%20Siege%20Pack\modpack\mods\ages-of-siege-control-0.1.0.jar)
+- the exported `.mrpack`
 
-## Current Gameplay Stack
+## Gameplay Role
 
-- Origins
-- Modern Industrialization
-- Guard Villagers
-- Illager Invasion
+The pack provides the wider environment around the custom control mod:
 
-## Current QoL / Performance Stack
+- survival and exploration baseline
+- defender and siege-supporting content mods
+- UI, QoL, and performance mods for testing
+- a local bundled copy of the `Ages Of Siege Control Mod`
 
-- EMI
-- Jade
-- Inventory Profiles Next
-- Sodium
-- Lithium
-- ModernFix
-- FerriteCore
-- Dynamic FPS
+## Dependency Note
 
-## Important Note
+The pack expects the custom gameplay mod from:
 
-The custom `Ages Of Siege` control mod is now included as a local built jar in `mods/`.
-This gives the pack its first custom gameplay rule:
+- [Ages Of Siege Control Mod](C:\Users\Stamp\OneDrive\Documents\Ages%20Of%20Siege%20Control%20Mod)
 
-- normal Minecraft opening
-- player-chosen defended base
-- persistent base claim data for later siege systems
-
-## Recommended Next Steps
-
-1. Launch this shortlist in a clean test instance.
-2. Confirm boot, world creation, save/reload, and basic mod visibility.
-3. Rebuild the control mod when gameplay changes land.
-4. Re-export the `.mrpack` after updating the local control-mod jar.
-5. Add the next progression slice on top of the base-claim foundation.
+When gameplay code changes land, rebuild that repo and replace the jar in `modpack/mods/` before exporting the pack again.
