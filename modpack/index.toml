@@ -2,11 +2,20 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d0c4ecfa50be5361bc53006929a525f08cd23a489571a79c8650c96754f4b761"
+hash = "9eb4c9f576d8da097b6c3f06352f0a1895ca0e95606f7e11e51d443045c5efd7"
 
 [[files]]
 file = "mods/ages-of-siege-control-0.1.0.jar"
-hash = "2091ec907943702e5d88c00b175c4ab772750eb26bee1c101548fbe5dcec88d3"
+hash = "a517abc8a252f32f667045a8aa0248a03b3e581b2d27a902d48d0a12c0e09100"
+
+[[files]]
+file = "mods/ages-of-siege-traders-0.1.0.jar"
+hash = "1de958f97f398f93e2754ae34f7de6119169908b7b37192c198a1203b21b9b6e"
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "5d37e3055b62f507cd243aeb3a5b47e93bcb26bc936f69bf0df48aa142324f88"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -114,6 +123,11 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "bc9c765f425f0bcb41f001675a5c15476fa4bc7d245d442b49c9203d637f3062"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "9e2d39015fab17029971b9bd01d3237693606ddc304e2c1a40e6ebcfea9d1484"
 metafile = true
@@ -169,6 +183,11 @@ hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "ceac338f8c4009e7469dbf3d234e9618afb126432c0e349097772f9a990a677c"
+metafile = true
+
+[[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "f834c8a1a0cea26deb377606bdf00f065304fe2c87828984b93dc6b4ee49691f"
 metafile = true
@@ -179,29 +198,10 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
-file = "open-prism-import.bat"
-hash = "9b14650cd957cf8c3c68e143695a54e25c2e174a85a3ee16e4ed180198a74e35"
-
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "ceac338f8c4009e7469dbf3d234e9618afb126432c0e349097772f9a990a677c"
-metafile = true
-
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "5d37e3055b62f507cd243aeb3a5b47e93bcb26bc936f69bf0df48aa142324f88"
-metafile = true
-
-
-[[files]]
-file = "mods/mcqoy.pw.toml"
-hash = "bc9c765f425f0bcb41f001675a5c15476fa4bc7d245d442b49c9203d637f3062"
-metafile = true
-
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "42234bbca053126fe29f9b8c537da962e31579c1753ef7a262ecfc22d3df57ff"
 metafile = true
+
+[[files]]
+file = "open-prism-import.bat"
+hash = "9b14650cd957cf8c3c68e143695a54e25c2e174a85a3ee16e4ed180198a74e35"
